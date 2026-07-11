@@ -1,0 +1,7 @@
+# zip datasets
+dataset.zip
+valid_dataset.zip
+
+# datasets
+/dataset/
+/valid_dataset/
